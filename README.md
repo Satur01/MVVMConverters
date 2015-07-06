@@ -64,6 +64,6 @@ Por último haremos uso del convertidor **AgeToColorConverter** en la propiedad 
 ```
 Con esto podrás ver resultados como los que se muestran a continuación.
 
-![Converter1](/content/images/2015/07/Converter1.png)
-![Converter2](/content/images/2015/07/Converter2.png)
+![Converter1](https://saturninopimentel.com/content/images/2015/07/Converter1.png)
+![Converter2](https://saturninopimentel.com/content/images/2015/07/Converter2.png)
 Como podrás darte cuenta es muy sencillo hacer uso de los convertidores de datos, dejo el código de ejemplo en [github](https://github.com/Satur01/MVVMConverters), espero te resulte útil y te invito a leer los demás post de la serie de [**MVVM**](https://saturninopimentel.com/tag/mvvm/). Saludos!!
